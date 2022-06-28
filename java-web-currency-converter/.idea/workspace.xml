@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2aab749c-39ba-491e-95aa-d1a7de7e8e80" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../week_2/baitap/Su dug bootstrap/Tạo gallery đơn giản sử dụng Bootstrap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_2/baitap/Su dug bootstrap/Xây dựng Landing Page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_2/baitap/Su dug bootstrap/iuuu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_2/baitap/Su dug bootstrap/tap su dung bootstrap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_2/baitap/images.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_2/baitap/iu-11-1653887051969.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_2/baitap/iu-beauty.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_2/baitap/iu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_2/baitap/vk iu.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2BCPmiiLZmZFTpDIAVEoo72CQFU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2aab749c-39ba-491e-95aa-d1a7de7e8e80" name="Changes" comment="" />
+      <created>1656407258811</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656407258811</updated>
+      <workItem from="1656407260022" duration="214000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
